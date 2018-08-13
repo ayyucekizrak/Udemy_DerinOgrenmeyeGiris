@@ -10,6 +10,7 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
 ## Konu Akışı ve Çalışma Dosyaları
 
 **1. YAPAY SİNİR AĞLARI**
+   
    [Google Colab Servisi Kullanımı](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/ilkadim.ipynb)
    
    [Python Numpy Giriş](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/Python_Numpy_Giris.ipynb)
@@ -19,6 +20,7 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    [Titanic Verisi Sınıflandırma](https://colab.reseacrh.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/titanic.ipynb)
 
 **2. DRRİN ÖĞRENEM MODELİ GELİŞTİRME REHBERİ**
+   
    [Veri Artırma Örnek 1](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_1.ipynbs)
    
    [Veri Artırma Örnek 2](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_2.ipynb)
@@ -32,6 +34,7 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    Transfer Öğrenme ve Fine-Tuning
    
 **3. EVRİŞİMLİ SİNİR AĞLARI**
+   
    [Temel Evrişimli Sinir Ağı Oluşturma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/EvrisimModeli_Ad%C4%B1mAd%C4%B1m.ipynb)
    
    [Evrişimli Sinir Ağı ile (MNIST) El Yazısı Rakam Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/RakamTanima_MNIST.ipynb) 
@@ -49,13 +52,17 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    YOLO ile Nesne Yeri Tespiti
 
 **4. ÖZYİNELEMELİ SİNİR AĞLARI / UZUN-KISA VADELİ BELLEK**
+   
    [Karakter Seviyesi Dil Modeli ile Dinazor İsimleri Üretme](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/Karakter_Seviyesi_Dil_Modeli_Dinazor_Adas%C4%B1.ipynb)
 
 **5. KAPSÜL AĞLARI**
+   
    [Kapsül Ağları ile MNIST Uygulaması](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/KapsulAglari/KapsulAglari_MNIST.ipynb)
 
 **6. ÇEKİŞMELİ ÜRETİCİ AĞLAR**
-   [Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Cekismeli_Uretici_Aglar-GAN/GAN_StilTransfer.ipynb)
+  
+  [Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Cekismeli_Uretici_Aglar-GAN/GAN_StilTransfer.ipynb)
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
+   
    Ping-Pong Oyun Uygulaması
