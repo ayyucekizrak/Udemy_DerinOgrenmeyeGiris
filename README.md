@@ -1,4 +1,4 @@
-<img align="left" src="https://i.hizliresim.com/zMpD14.png">
+<img align="left" src="https://static.chollometro.com/threads/thread_large/default/41458_1.jpg">
 
 # Udemy Derin Ögrenmeye Giriş :heavy_check_mark:
 
