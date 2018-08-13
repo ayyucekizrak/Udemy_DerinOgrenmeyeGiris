@@ -39,9 +39,9 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    
   * [Evrişimli Sinir Ağı ile (MNIST) El Yazısı Rakam Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/RakamTanima_MNIST.ipynb) 
    
-  * [VGG-16 ile Nesne Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/VGG16_NesneTanima.ipynb)
+  * [VGG-16 ile Nesne Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Nesne_Tanima/VGG16_NesneTanima.ipynb)
    
-  * [ResNet 50 ile Nesne Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/ResNet50_NesneTanima_ImageNet.ipynb)
+  * [ResNet 50 ile Nesne Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Nesne_Tanima/ResNet50_NesneTanima_ImageNet.ipynb)
    
   * [Evrişimli Sinir Ağları ile Fashion MNIST](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Fashion_MNIST.ipynb)
    
