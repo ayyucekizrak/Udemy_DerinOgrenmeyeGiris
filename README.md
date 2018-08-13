@@ -1,4 +1,4 @@
-<img align="left" src="https://www.mafialibrary.com/storage/marketplaces/udemy.png">
+<img align="left" src="https://i.hizliresim.com/zMpD14.png">
 
 # Udemy Derin Ögrenmeye Giriş :heavy_check_mark:
 
