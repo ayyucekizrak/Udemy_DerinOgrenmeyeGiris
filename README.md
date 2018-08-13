@@ -101,7 +101,7 @@
 
 * :star: [Deep Learning Türkiye Github](https://github.com/deeplearningturkiye)
 
-* :question: :grey_question:**[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)** :ok_hand:
+* :question: **[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)** :ok_hand:
 
 ----
 :alien: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) 
