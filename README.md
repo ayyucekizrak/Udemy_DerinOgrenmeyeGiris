@@ -89,7 +89,7 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
 
 ----
 
-<img align="left" src="http://www.ayyucekizrak.com/wp-content/uploads/2018/03/logooooooo-300x158.jpg"> 
+<img align="right" src="http://www.ayyucekizrak.com/wp-content/uploads/2018/03/logooooooo-300x158.jpg"> 
 
 ## Derse Yardımcı Kaynaklar?
 
