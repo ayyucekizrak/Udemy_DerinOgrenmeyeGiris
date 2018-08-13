@@ -10,22 +10,7 @@
 
 Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir ağları (RNN), uzun-kısa vadeli bellek modeli (LSTM), makine öğrenmesinde optimizasyon ve regularizasyon yöntemlerini, kapsül ağları, pekiştirmeli öğrenme (RL), çekişmeli üretici ağları (GAN) öğreneceksiniz. Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme çoklu endüstrileri geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
 
-----
-## Kodları nasıl çalıştırmalıyım?
-
-*Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın kapasitesinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google ücretsiz Colab servisini öneriyorum. Aşağıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları lokal çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemleri nasıl yapacağınızın anlatımına Udemy Derin Öğrenemeye Giriş dersinden ulaşabilirsiniz.*
-
 * [Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/draft/1651804/learn/v4/overview)
-
-* [Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
-
-* [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e)
-
-* [Deep Learning Türkiye Blog](https://medium.com/deep-learning-turkiye)
-
-* [Deep Learning Türkiye Github](https://github.com/deeplearningturkiye)
-
-* **[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)**
 
 ----
 
@@ -90,6 +75,33 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
  * [Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Cekismeli_Uretici_Aglar-GAN/GAN_StilTransfer.ipynb)
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
-   
+  
   * Ping-Pong Oyun Uygulaması  
   >Eklenecek
+  
+----
+
+<img align="left" src="https://cdn-ak.f.st-hatena.com/images/fotolife/n/nogawanogawa/20180503/20180503144836.png"> 
+
+## Kodları nasıl çalıştırmalıyım?
+
+*Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın kapasitesinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google ücretsiz Colab servisini öneriyorum. Aşağıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları lokal çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemleri nasıl yapacağınızın anlatımına Udemy Derin Öğrenemeye Giriş dersinden ulaşabilirsiniz.*
+
+----
+
+<img align="left" src="http://www.ayyucekizrak.com/wp-content/uploads/2018/03/logooooooo-300x158.jpg"> 
+
+## Derse Yardımcı Kaynaklar?
+
+* [Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
+
+* [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e)
+
+* [Deep Learning Türkiye Blog](https://medium.com/deep-learning-turkiye)
+
+* [Deep Learning Türkiye Github](https://github.com/deeplearningturkiye)
+
+* **[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)**
+
+----
+
