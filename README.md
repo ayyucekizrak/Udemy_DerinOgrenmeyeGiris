@@ -117,4 +117,3 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 ----
 :alien: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) 
 ----
-
