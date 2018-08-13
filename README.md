@@ -6,9 +6,20 @@
 
 ### Udemy Derin Öğrenmeye Giriş Kursunun Uygulamaları 
 
-<img align="right" src="DL.jpg"> Yapay zeka alanında aranan yeteneklerden biri de derin öğrenme konusudur. Bu kurs size derin öğrenmenin teorik anlatım ve pratik uygulamalarıyla size yol gösterici niteliğindedir. Bu dersi bitirdiğinizde derin öğrenmenin temellerini öğrenecek, sinir ağlar modellerini nasıl tasarlayacağınız anlayacak ve başarılı makine öğrenimi projelerine nasıl gerçekleştirebileceğinizi öğreneceksiniz.
+<img align="right" src="DL.jpg">Yapay zeka alanına giriş yapmak ve "öğrenen" uygulamalar geliştirmek istiyorsanız derin öğrenme yöntemlerini öğrenmek için sizi Udemy üzerinde açtığım kursu takip edebilirsiniz. "Derin Öğrenmeye Giriş" kursu temelden ileri seviyeye kadar teorik anlatım ve pratik uygulamaları içermektedir. Bu dersi bitirdiğinizde, derin öğrenmenin temellerini, yapay sinir ağı modelleri oluşturma ve geliştirme adımlarını ve başarılı yapay öğrenme projelerini nasıl gerçekleştirebileceğinizi öğreneceksiniz.
 
-:key: Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir ağları (RNN), uzun-kısa vadeli bellek modeli (LSTM), makine öğrenmesinde optimizasyon ve regularizasyon yöntemlerini, kapsül ağları, pekiştirmeli öğrenme (RL), çekişmeli üretici ağları (GAN) öğreneceksiniz. Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme çoklu endüstrileri geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
+### NELER ÖĞRENECEĞİM? :key:
+
+* Yapay Sinir Ağları (ANN: Artificial Neural Networks), 
+- Evrişimli Sinir Ağları (CNN: Convolutional Neural Networks)
+- Özyinelemeli Sinir Ağları (RNN: Recurrent Neural Networks)
+- Uzun-Kısa Vadeli Bellek (LSTM: Long Short Term Memory)
+- Makine Öğrenmesinde Optimizasyon ve Regularizasyon Yöntemleri 
+- Kapsül Ağları (CapsNet: Capsule Networks)
+- Pekiştirmeli Öğrenme (RL: Reinforcement Learning)  
+- Çekişmeli Üretici Ağları (GAN: Generative Adversarial Networks)
+
+Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme iş dünyasını geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
 
 ## :boom: **[Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/draft/1651804/learn/v4/overview)** :metal: :sunglasses:
  
@@ -26,7 +37,7 @@
    
   * [Titanic Verisi Sınıflandırma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/titanic.ipynb)
 
-**2. DERİN ÖĞRENEM MODELİ GELİŞTİRME REHBERİ**
+**2. DERİN ÖĞRENME MODELİ GELİŞTİRME REHBERİ**
    
   * [Veri Artırma Örnek 1](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_1.ipynb)
    
@@ -38,10 +49,10 @@
   * Optimizasyon Yöntemlerinin Karşılaştırılması 
   >Eklenecek
    
-  * Aşırı Uydurma ve Erken Durdurma 
+  * Aşırı Uydurma (Overfitting) ve Erken Durdurma (Early Stopping) 
   >Eklenecek
    
-  * Transfer Öğrenme ve Fine-Tuning 
+  * Transfer Öğrenme (Transfer Learning) ve Fine-Tuning 
   >Eklenecek
    
 **3. EVRİŞİMLİ SİNİR AĞLARI (CNN)** 
@@ -85,7 +96,7 @@
 
 ## Kodları nasıl çalıştırmalıyım? :bow:
 
-*Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın kapasitesinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google ücretsiz Colab servisini öneriyorum. Yukarıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları lokal çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemleri nasıl yapacağınızın anlatımına Udemy Derin Öğrenemeye Giriş dersinden ulaşabilirsiniz.* :muscle:
+*Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın donanımsal ve yazılımsal özelliklerinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google tarafından ücretsiz olarak sunulan Colab servisini öneriyorum. Yukarıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları yerel çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemlerin yapılış adımlarını Udemy'de bulunan "Derin Öğrenmeye Giriş" kursunda bulabilirsiniz.* :muscle:
 
 ----
 
