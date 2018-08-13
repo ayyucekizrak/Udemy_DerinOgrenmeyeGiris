@@ -10,8 +10,8 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
 ## Konu Akışı ve Çalışma Dosyaları
 
 **1. YAPAY SİNİR AĞLARI**
-   [Google Colab Servisi Kullanımı] (https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/ilkadim.ipynb)
-   [Python Numpy Giriş] (https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/Python_Numpy_Giris.ipynb)
+   [Google Colab Servisi Kullanımı](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/ilkadim.ipynb)
+   [Python Numpy Giriş](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/Python_Numpy_Giris.ipynb)
    [Titanic Veri Kümesi Görselleştirme] (https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/Titanic_Veri_Gorsellestirme.ipynb)
    [Titanic Verisi Sınıflandırma] (https://colab.reseacrh.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/titanic.ipynb)
 
