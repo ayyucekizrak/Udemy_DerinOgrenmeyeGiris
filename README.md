@@ -10,7 +10,7 @@
 
 ### NELER ÖĞRENECEĞİM? :key:
 
-* Yapay Sinir Ağları (ANN: Artificial Neural Networks), 
+- Yapay Sinir Ağları (ANN: Artificial Neural Networks) 
 - Evrişimli Sinir Ağları (CNN: Convolutional Neural Networks)
 - Özyinelemeli Sinir Ağları (RNN: Recurrent Neural Networks)
 - Uzun-Kısa Vadeli Bellek (LSTM: Long Short Term Memory)
