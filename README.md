@@ -1,4 +1,6 @@
-# Udemy_DerinOgrenmeyeGiris
+# Udemy Derin Ögrenmeye Giriş
+----
+
 ### Udemy Derin Öğrenmeye Giriş Kursunun Uygulamaları 
 
 <img align="right" src="DL.jpg"> Yapay zeka alanında aranan yeteneklerden biri de derin öğrenme konusudur. Bu kurs size derin öğrenmenin teorik anlatım ve pratik uygulamalarıyla size yol gösterici niteliğindedir. Bu dersi bitirdiğinizde derin öğrenmenin temellerini öğrenecek, sinir ağlar modellerini nasıl tasarlayacağınız anlayacak ve başarılı makine öğrenimi projelerine nasıl gerçekleştirebileceğinizi öğreneceksiniz.
