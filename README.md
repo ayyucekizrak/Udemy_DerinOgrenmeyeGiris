@@ -1,13 +1,12 @@
 <img align="left" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/19168-46f7ef2c0f994d588d8e8e56360d926b-medium_jpg.jpg?buster=1515787849">
 
-:loudspeaker:
 # Udemy Derin Ögrenmeye Giriş :heavy_check_mark:
 
 ----
 
 ### Udemy Derin Öğrenmeye Giriş Kursunun Uygulamaları 
 
-<img align="right" src="DL.jpg"> :alien: Yapay zeka alanında aranan yeteneklerden biri de derin öğrenme konusudur. Bu kurs size derin öğrenmenin teorik anlatım ve pratik uygulamalarıyla size yol gösterici niteliğindedir. Bu dersi bitirdiğinizde derin öğrenmenin temellerini öğrenecek, sinir ağlar modellerini nasıl tasarlayacağınız anlayacak ve başarılı makine öğrenimi projelerine nasıl gerçekleştirebileceğinizi öğreneceksiniz.
+<img align="right" src="DL.jpg"> Yapay zeka alanında aranan yeteneklerden biri de derin öğrenme konusudur. Bu kurs size derin öğrenmenin teorik anlatım ve pratik uygulamalarıyla size yol gösterici niteliğindedir. Bu dersi bitirdiğinizde derin öğrenmenin temellerini öğrenecek, sinir ağlar modellerini nasıl tasarlayacağınız anlayacak ve başarılı makine öğrenimi projelerine nasıl gerçekleştirebileceğinizi öğreneceksiniz.
 
 :key: Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir ağları (RNN), uzun-kısa vadeli bellek modeli (LSTM), makine öğrenmesinde optimizasyon ve regularizasyon yöntemlerini, kapsül ağları, pekiştirmeli öğrenme (RL), çekişmeli üretici ağları (GAN) öğreneceksiniz. Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme çoklu endüstrileri geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
 
@@ -45,7 +44,7 @@
   * Transfer Öğrenme ve Fine-Tuning 
   >Eklenecek
    
-**3. EVRİŞİMLİ SİNİR AĞLARI (CNN)**
+**3. EVRİŞİMLİ SİNİR AĞLARI (CNN)** 
    
   * [Temel Evrişimli Sinir Ağı Oluşturma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/EvrisimModeli_Ad%C4%B1mAd%C4%B1m.ipynb)
    
@@ -67,17 +66,17 @@
    
   * [Karakter Seviyesi Dil Modeli ile Dinazor İsimleri Üretme](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/Karakter_Seviyesi_Dil_Modeli_Dinazor_Adas%C4%B1.ipynb)
 
-**5. KAPSÜL AĞLARI**
+**5. KAPSÜL AĞLARI** :pill:
    
   * [Kapsül Ağları ile MNIST Uygulaması](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/KapsulAglari/KapsulAglari_MNIST.ipynb)
 
-**6. ÇEKİŞMELİ ÜRETİCİ AĞLAR**
+**6. ÇEKİŞMELİ ÜRETİCİ AĞLAR** :art:
   
  * [Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Cekismeli_Uretici_Aglar-GAN/GAN_StilTransfer.ipynb)
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
   
- :video_game: * Ping-Pong Oyun Uygulaması  
+ * Ping-Pong Oyun Uygulaması :video_game:
   >Eklenecek
   
 ----
@@ -92,7 +91,7 @@
 
 <img align="right" src="http://www.ayyucekizrak.com/wp-content/uploads/2018/03/logooooooo-300x158.jpg"> 
 
-:innocent: ## Derse Yardımcı Kaynaklar? 
+## Derse Yardımcı Kaynaklar? :innocent: 
 
 * :dart: [Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1) 
 
