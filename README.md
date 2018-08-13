@@ -6,6 +6,7 @@
 <img align="right" src="DL.jpg"> Yapay zeka alanında aranan yeteneklerden biri de derin öğrenme konusudur. Bu kurs size derin öğrenmenin teorik anlatım ve pratik uygulamalarıyla size yol gösterici niteliğindedir. Bu dersi bitirdiğinizde derin öğrenmenin temellerini öğrenecek, sinir ağlar modellerini nasıl tasarlayacağınız anlayacak ve başarılı makine öğrenimi projelerine nasıl gerçekleştirebileceğinizi öğreneceksiniz.
 
 Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir ağları (RNN), uzun-kısa vadeli bellek modeli (LSTM), makine öğrenmesinde optimizasyon ve regularizasyon yöntemlerini, kapsül ağları, pekiştirmeli öğrenme (RL), çekişmeli üretici ağları (GAN) öğreneceksiniz. Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme çoklu endüstrileri geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
+<img align="right" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/19168-46f7ef2c0f994d588d8e8e56360d926b-medium_jpg.jpg?buster=1515787849">
 
 ----
 ## Kodları nasıl çalıştırmalıyım?
