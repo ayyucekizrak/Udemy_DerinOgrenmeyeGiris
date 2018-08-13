@@ -8,15 +8,15 @@
 
 <img align="right" src="DL.jpg"> Yapay zeka alanında aranan yeteneklerden biri de derin öğrenme konusudur. Bu kurs size derin öğrenmenin teorik anlatım ve pratik uygulamalarıyla size yol gösterici niteliğindedir. Bu dersi bitirdiğinizde derin öğrenmenin temellerini öğrenecek, sinir ağlar modellerini nasıl tasarlayacağınız anlayacak ve başarılı makine öğrenimi projelerine nasıl gerçekleştirebileceğinizi öğreneceksiniz.
 
-Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir ağları (RNN), uzun-kısa vadeli bellek modeli (LSTM), makine öğrenmesinde optimizasyon ve regularizasyon yöntemlerini, kapsül ağları, pekiştirmeli öğrenme (RL), çekişmeli üretici ağları (GAN) öğreneceksiniz. Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme çoklu endüstrileri geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
+Temel yapay sinir ağları :brain: , evrişimli sinir ağları (CNN), özyinelemeli sinir ağları (RNN), uzun-kısa vadeli bellek modeli (LSTM), makine öğrenmesinde optimizasyon ve regularizasyon yöntemlerini, kapsül ağları, pekiştirmeli öğrenme (RL), çekişmeli üretici ağları (GAN) öğreneceksiniz. Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme çoklu endüstrileri geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
 
-* [Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/draft/1651804/learn/v4/overview)
+**[Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/draft/1651804/learn/v4/overview)**
 
 ----
 
-## Konu Akışı ve Çalışma Dosyaları
+## Konu Akışı ve Çalışma Dosyaları 
 
-**1. YAPAY SİNİR AĞLARI**
+**1. YAPAY SİNİR AĞLARI** 
    
   * [Google Colab Servisi Kullanımı](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/ilkadim.ipynb)
    
