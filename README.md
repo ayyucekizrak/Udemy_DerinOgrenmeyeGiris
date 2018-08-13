@@ -6,6 +6,23 @@
 Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir ağları (RNN), uzun-kısa vadeli bellek modeli (LSTM), malkine öğrenmesinde optimizasyon ve regularizasyon yöntemlerini, kapsül ağları, pekiştirmeli öğrenme (RL), çekişmeli üretici ağları (GAN) öğreneceksiniz. Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve gerisinde çalışan Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme çoklu endüstrileri geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
 
 ----
+## Kodları nasıl çalıştırmalıyım?
+
+*Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın kapasitesinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google ücretsiz Colab servisini öneriyorum. Aşağıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları lokal çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemleri nasıl yapacağınızın anlatımına Udemy Derin Öğrenemeye Giriş dersinden ulaşabilirsiniz.*
+
+[Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/draft/1651804/learn/v4/overview)
+
+[Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
+
+[Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e)
+
+[Deep Learning Tüürkiye Blog](https://medium.com/deep-learning-turkiye)
+
+[Deep Learning Türkiye Github](https://github.com/deeplearningturkiye)
+
+**[Deep Learning Türkiye Soru-Cevap Sitesi]**(https://sorucevap.deeplearningturkiye.com/)
+
+----
 
 ## Konu Akışı ve Çalışma Dosyaları
 
