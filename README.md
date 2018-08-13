@@ -17,7 +17,7 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    
   * [Titanic Veri Kümesi Görselleştirme](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/Titanic_Veri_Gorsellestirme.ipynb)
    
-  * [Titanic Verisi Sınıflandırma](https://colab.reseacrh.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/titanic.ipynb)
+  * [Titanic Verisi Sınıflandırma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/titanic.ipynb)
 
 **2. DRRİN ÖĞRENEM MODELİ GELİŞTİRME REHBERİ**
    
