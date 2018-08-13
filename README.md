@@ -20,7 +20,7 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
 
 [Deep Learning Türkiye Github](https://github.com/deeplearningturkiye)
 
-**[Deep Learning Türkiye Soru-Cevap Sitesi]**(https://sorucevap.deeplearningturkiye.com/)
+**[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)**
 
 ----
 
