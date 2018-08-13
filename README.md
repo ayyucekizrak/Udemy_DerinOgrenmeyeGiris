@@ -10,17 +10,17 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
 
 *Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın kapasitesinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google ücretsiz Colab servisini öneriyorum. Aşağıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları lokal çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemleri nasıl yapacağınızın anlatımına Udemy Derin Öğrenemeye Giriş dersinden ulaşabilirsiniz.*
 
-[Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/draft/1651804/learn/v4/overview)
+* [Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/draft/1651804/learn/v4/overview)
 
-[Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
+* [Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
 
-[Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e)
+* [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e)
 
-[Deep Learning Tüürkiye Blog](https://medium.com/deep-learning-turkiye)
+* [Deep Learning Türkiye Blog](https://medium.com/deep-learning-turkiye)
 
-[Deep Learning Türkiye Github](https://github.com/deeplearningturkiye)
+* [Deep Learning Türkiye Github](https://github.com/deeplearningturkiye)
 
-**[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)**
+* **[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)**
 
 ----
 
