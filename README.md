@@ -1,4 +1,4 @@
-<img align="left" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/19168-46f7ef2c0f994d588d8e8e56360d926b-medium_jpg.jpg?buster=1515787849">
+<img align="left" src="https://www.mafialibrary.com/storage/marketplaces/udemy.png">
 
 # Udemy Derin Ögrenmeye Giriş :heavy_check_mark:
 
