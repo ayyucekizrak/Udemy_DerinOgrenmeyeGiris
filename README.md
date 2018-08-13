@@ -1,4 +1,4 @@
-<img align="left" src="https://www.mafialibrary.com/storage/marketplaces/udemy.png">
+<img align="left" src="https://www.onlinecoursecoupons.com/wp-content/uploads/2017/11/Large-Vertical-TM@2x.png">
 
 # Udemy Derin Ögrenmeye Giriş :heavy_check_mark:
 
