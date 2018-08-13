@@ -85,7 +85,7 @@
 
 ## Kodları nasıl çalıştırmalıyım? :bow:
 
-*Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın kapasitesinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google ücretsiz Colab servisini öneriyorum. Aşağıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları lokal çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemleri nasıl yapacağınızın anlatımına Udemy Derin Öğrenemeye Giriş dersinden ulaşabilirsiniz.* :muscle:
+*Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın kapasitesinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google ücretsiz Colab servisini öneriyorum. Yukarıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları lokal çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemleri nasıl yapacağınızın anlatımına Udemy Derin Öğrenemeye Giriş dersinden ulaşabilirsiniz.* :muscle:
 
 ----
 
