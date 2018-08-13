@@ -25,13 +25,13 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    
   * [Veri Artırma Örnek 2](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_2.ipynb)
    
-  * Aktivasyon Fonksiyonları Karşılaştırması
+  * Aktivasyon Fonksiyonları Karşılaştırması >Eklenecek
    
-  * Optimizasyon Yöntemlerinin Karşılaştırılması
+  * Optimizasyon Yöntemlerinin Karşılaştırılması >Eklenecek
    
-  * Aşırı Uydurma ve Erken Durdurma
+  * Aşırı Uydurma ve Erken Durdurma >Eklenecek
    
-  * Transfer Öğrenme ve Fine-Tuning
+  * Transfer Öğrenme ve Fine-Tuning >Eklenecek
    
 **3. EVRİŞİMLİ SİNİR AĞLARI (CNN)**
    
@@ -49,7 +49,7 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    
   * [Evrişimli Sinir Ağı ile Duygu ve Cinsiyet Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DLTR_DuyguTanima_Demo2.ipynb)
    
-  * YOLO ile Nesne Yeri Tespiti
+  * [YOLO ile Nesne Yeri Tespiti](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti/DLTR_YOLOv2-Darkflow.ipynb)
 
 **4. ÖZYİNELEMELİ SİNİR AĞLARI / UZUN-KISA VADELİ BELLEK**
    
@@ -65,4 +65,4 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
    
-  * Ping-Pong Oyun Uygulaması
+  * Ping-Pong Oyun Uygulaması  >Eklenecek
