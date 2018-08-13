@@ -105,4 +105,6 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
 
 ----
 
-<img align="left" src="http://halic.edu.tr/Templates/Default/assets/img/desktop-header-logo.png">  <img align="rigth" src="http://halic.edu.tr/Templates/Default/assets/img/desktop-header-logo.png"> 
+*Merve Ayyüce Kızrak, yıldız Teknik Üniversitesi'nde Doktora tez aşamasında olup 2009 yılından bu yana Haliç Üniversitesi'nde akademik kariyerine devam etmektedir.
+
+<img align="left" src="https://www.asmaz.com.tr/file/2015/01/Y%C4%B1ld%C4%B1z_Teknik_%C3%9Cniversitesi_Logo.jpeg">  <img align="rigth" src="http://halic.edu.tr/Templates/Default/assets/img/desktop-header-logo.png"> 
