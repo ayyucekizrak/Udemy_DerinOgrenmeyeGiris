@@ -104,4 +104,6 @@
 * :question: :grey_question:**[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)** :ok_hand:
 
 ----
-Merve Ayyüce Kızrak :alien:
+**Merve Ayyüce Kızrak** :alien:
+----
+
