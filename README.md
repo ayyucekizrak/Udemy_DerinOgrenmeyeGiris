@@ -66,17 +66,17 @@
    
   * [Karakter Seviyesi Dil Modeli ile Dinazor İsimleri Üretme](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/Karakter_Seviyesi_Dil_Modeli_Dinazor_Adas%C4%B1.ipynb)
 
-**5. KAPSÜL AĞLARI** :pill:
+**5. KAPSÜL AĞLARI** 
    
   * [Kapsül Ağları ile MNIST Uygulaması](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/KapsulAglari/KapsulAglari_MNIST.ipynb)
 
-**6. ÇEKİŞMELİ ÜRETİCİ AĞLAR** :art:
+**6. ÇEKİŞMELİ ÜRETİCİ AĞLAR**
   
  * [Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Cekismeli_Uretici_Aglar-GAN/GAN_StilTransfer.ipynb)
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
   
- * Ping-Pong Oyun Uygulaması :video_game:
+ * Ping-Pong Oyun Uygulaması 
   >Eklenecek
   
 ----
