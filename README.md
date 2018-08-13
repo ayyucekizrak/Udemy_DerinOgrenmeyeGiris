@@ -38,7 +38,7 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    
   * [Titanic Verisi Sınıflandırma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/titanic.ipynb)
 
-**2. DRRİN ÖĞRENEM MODELİ GELİŞTİRME REHBERİ**
+**2. DERİN ÖĞRENEM MODELİ GELİŞTİRME REHBERİ**
    
   * [Veri Artırma Örnek 1](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_1.ipynb)
    
