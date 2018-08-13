@@ -25,13 +25,17 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
    
   * [Veri Artırma Örnek 2](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_2.ipynb)
    
-  * Aktivasyon Fonksiyonları Karşılaştırması >Eklenecek
+  * Aktivasyon Fonksiyonları Karşılaştırması 
+  >Eklenecek
    
-  * Optimizasyon Yöntemlerinin Karşılaştırılması >Eklenecek
+  * Optimizasyon Yöntemlerinin Karşılaştırılması 
+  >Eklenecek
    
-  * Aşırı Uydurma ve Erken Durdurma >Eklenecek
+  * Aşırı Uydurma ve Erken Durdurma 
+  >Eklenecek
    
-  * Transfer Öğrenme ve Fine-Tuning >Eklenecek
+  * Transfer Öğrenme ve Fine-Tuning 
+  >Eklenecek
    
 **3. EVRİŞİMLİ SİNİR AĞLARI (CNN)**
    
@@ -65,4 +69,5 @@ Temel yapay sinir ağları, evrişimli sinir ağları (CNN), özyinelemeli sinir
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
    
-  * Ping-Pong Oyun Uygulaması  >Eklenecek
+  * Ping-Pong Oyun Uygulaması  
+  >Eklenecek
