@@ -11,13 +11,14 @@
 ### NELER ÖĞRENECEĞİM? :key:
 
 - Yapay Sinir Ağları (ANN: Artificial Neural Networks) 
+- Makine Öğrenmesinde Optimizasyon ve Regularizasyon Yöntemleri 
 - Evrişimli Sinir Ağları (CNN: Convolutional Neural Networks)
 - Özyinelemeli Sinir Ağları (RNN: Recurrent Neural Networks)
 - Uzun-Kısa Vadeli Bellek (LSTM: Long Short Term Memory)
-- Makine Öğrenmesinde Optimizasyon ve Regularizasyon Yöntemleri 
 - Kapsül Ağları (CapsNet: Capsule Networks)
-- Pekiştirmeli Öğrenme (RL: Reinforcement Learning)  
 - Çekişmeli Üretici Ağları (GAN: Generative Adversarial Networks)
+- Pekiştirmeli Öğrenme (RL: Reinforcement Learning)  
+
 
 Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras kütüphanelerinde uygulayacaksınız. Yapay zeka ve derin öğrenme iş dünyasını geliştirmekte ve dönüştürmektedir. Bu dersi tamamladıktan sonra, bunu işinize uygulamak için yaratıcı yollar bulabilirsiniz.
 
