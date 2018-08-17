@@ -27,6 +27,8 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 ## Konu Akışı ve Çalışma Dosyaları :computer:
 
+*Eğer direkt olarak çalışma dosyalarını (.ipynb) **Colab** servisi üzerinde açmak isterseniz aşağıda verdiğim linklere tıklamanız yeterli!*
+
 **1. YAPAY SİNİR AĞLARI** 
    
   * [Google Colab Servisi Kullanımı](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/ilkadim.ipynb)
