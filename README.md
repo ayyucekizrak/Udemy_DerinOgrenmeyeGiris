@@ -116,5 +116,8 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 ----
 <img align="right" src="https://images.cdn2.stockunlimited.net/clipart/letter-a_1995332.jpg"> 
-:alien: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) 
+
 ----
+
+:alien: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) 
+
