@@ -115,6 +115,6 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 * :question: **[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)** :ok_hand:
 
 ----
+<img align="right" src="https://images.cdn2.stockunlimited.net/clipart/letter-a_1995332.jpg"> 
 :alien: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) 
-<img align="left" src="https://images.cdn2.stockunlimited.net/clipart/letter-a_1995332.jpg"> 
 ----
