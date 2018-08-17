@@ -41,7 +41,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Veri Artırma Örnek 1](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_1.ipynb)
    
-  * [Veri Artırma Örnek 2](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_2.ipynb)
+  * [Veri Artırma Örnek 2](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_2.ipynbUdemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_2.ipynb)
    
   * Aktivasyon Fonksiyonları Karşılaştırması 
   >Eklenecek
@@ -57,9 +57,9 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
 **3. EVRİŞİMLİ SİNİR AĞLARI (CNN)** 
    
-  * [Temel Evrişimli Sinir Ağı Oluşturma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/EvrisimModeli_Ad%C4%B1mAd%C4%B1m.ipynb)
+  * [Temel Evrişimli Sinir Ağı Oluşturma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/EvrisimliSinirAgi_AdimAdim.ipynb)
    
-  * [Evrişimli Sinir Ağı ile (MNIST) El Yazısı Rakam Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/RakamTanima_MNIST.ipynb) 
+  * [Evrişimli Sinir Ağı ile (MNIST) El Yazısı Rakam Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/RakamTanima_CNN.ipynb) 
    
   * [VGG-16 ile Nesne Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Nesne_Tanima/VGG16_NesneTanima.ipynb)
    
@@ -67,11 +67,11 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Evrişimli Sinir Ağları ile Fashion MNIST](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Fashion_MNIST.ipynb)
    
-  * [Evrişimli Sinir Ağı ile Duygu Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DuyguTanima_Demo1.ipynb)
+  * [Evrişimli Sinir Ağı ile Duygu Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DuyguTanima_Demo1.ipynbb)
    
-  * [Evrişimli Sinir Ağı ile Duygu ve Cinsiyet Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DLTR_DuyguTanima_Demo2.ipynb)
+  * [Evrişimli Sinir Ağı ile Duygu ve Cinsiyet Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DuyguTanima_Demo2.ipynbb)
    
-  * [YOLO ile Nesne Yeri Tespiti](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti/DLTR_YOLOv2-Darkflow.ipynb)
+  * [YOLO ile Nesne Yeri Tespiti](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti/YOLOv2_Darkflow_Uygulama.ipynb)
 
 **4. ÖZYİNELEMELİ SİNİR AĞLARI / UZUN-KISA VADELİ BELLEK**
    
@@ -83,7 +83,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 **6. ÇEKİŞMELİ ÜRETİCİ AĞLAR**
   
- * [Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Cekismeli_Uretici_Aglar-GAN/GAN_StilTransfer.ipynb)
+ * [Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Cekismeli_Uretici_Aglar-GAN/StilTransferi_GAN.ipynb)
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
   
@@ -116,4 +116,5 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 ----
 :alien: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) 
+<img align="left" src="https://images.cdn2.stockunlimited.net/clipart/letter-a_1995332.jpg"> 
 ----
