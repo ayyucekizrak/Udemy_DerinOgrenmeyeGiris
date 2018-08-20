@@ -81,6 +81,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Karakter Seviyesi Dil Modeli ile Dinazor İsimleri Üretme](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/Karakter_Seviyesi_Dil_Modeli_Dinazor_Adas%C4%B1.ipynb)
   * [Uzun-Kısa Vadeli Bellek (LSTM) Kullanılarak Öngörücü Bakım (Predictive Maintenance) Kestirimi]  
+    
     >Eklenecek
     
 **5. KAPSÜL AĞLARI** 
