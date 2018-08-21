@@ -122,7 +122,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 * :question: **[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)** :ok_hand:
 
 ----
-[<img align="right" src="https://images.cdn2.stockunlimited.net/clipart/letter-a_1995332.jpg">](http://www.ayyucekizrak.com/)
+[<img align="right" src="https://www.google.com.tr/search?q=circled_latin_capital_letter_a_u24B6_icon_256x256&tbm=isch&source=iu&ictx=1&fir=mU14NeVnqCitNM%253A%252C62hT4q26InY2RM%252C_&usg=AFrqEzc-Zhlnp4zzpi4Di-RCue4jZtZtxQ&sa=X&ved=2ahUKEwizloL7y_7cAhXik4sKHboqC44Q9QEwAnoECAIQBA#imgrc=mU14NeVnqCitNM:">](http://www.ayyucekizrak.com/)
 
 :alien: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) 
 ----
