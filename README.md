@@ -105,7 +105,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 *Derin Öğrenmeye Giriş derslerini kişisel bilgisayarlarınızın donanımsal ve yazılımsal özelliklerinden bağımsız olarak bulut ortamında rahatlıkla çalıştırabilmeniz için Google tarafından ücretsiz olarak sunulan Colab servisini öneriyorum. Yukarıdaki ders içeriğini kapsayan listeden direkt link ile **Colab** üzerinde çalışabiliyor olacaksınız. Dilerseniz dosyaları yerel çalışma ortamınıza indirip kendi donanımınız üzerinde de çalıştırabilirsiniz. Bu işlemlerin yapılış adımlarını Udemy'de bulunan "Derin Öğrenmeye Giriş" kursunda bulabilirsiniz.* :muscle:
 
-[GitHub Üzerindeki Repoyu Google Colab'a tek hamle de nasıl alabilirim](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/GitHub_Colab.ipynb):grey_question:
+[GitHub Üzerindeki Repoyu Google Colab'a tek hamlede nasıl alabilirim](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/GitHub_Colab.ipynb):grey_question:
 
 ----
 
