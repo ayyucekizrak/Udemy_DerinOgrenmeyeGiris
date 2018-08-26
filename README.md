@@ -71,8 +71,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Evrişimli Sinir Ağları ile Fashion MNIST](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Fashion_MNIST.ipynb)
    
-  * [Evrişimli Sinir Ağı ile Duygu Tanıma]
-    >Eklenecek
+  * [Evrişimli Sinir Ağı ile Duygu Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DuyguTanima_Demo1.ipynb)
    
   * [Evrişimli Sinir Ağı ile Duygu ve Cinsiyet Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DuyguTanima_Demo2.ipynb)
    
