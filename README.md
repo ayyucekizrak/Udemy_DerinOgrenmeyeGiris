@@ -76,7 +76,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
   * [Evrişimli Sinir Ağı ile Duygu ve Cinsiyet Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DuyguTanima_Demo2.ipynb)
    
   * [YOLO ile Nesne Yeri Tespiti](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti/YOLOv2_Darkflow_Uygulama.ipynb)
-  * [Artistik Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Artistik_Stil_Transferi/ArtistikStilTransferi.ipynb)
+  * [Artistik Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/ArtistikStilTransferi.ipynb)
 
 **4. ÖZYİNELEMELİ SİNİR AĞLARI / UZUN-KISA VADELİ BELLEK**
    
@@ -91,7 +91,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 **6. ÇEKİŞMELİ ÜRETİCİ AĞLAR**
   
- * [Stil Transferi - GAN] 
+ * Stil Transferi - GAN 
   >Eklenecek
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
