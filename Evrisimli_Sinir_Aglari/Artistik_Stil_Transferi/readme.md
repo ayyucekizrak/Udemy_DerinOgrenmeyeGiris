@@ -1,8 +1,13 @@
 
-### Artistik Stil Transferi 
+## Artistik Stil Transferi :art:
+
+Stil transferi, girdi görüntüsünün stil  görüntüleri biçiminde yeniden oluşturulması tekniğidir. Her şey Gatys ve arkadaşlarının sanatsal üslubun bir resimden başka bir resme, evrişimsel sinir ağlarını kullanarak aktarmasının nasıl mümkün olduğuna dair harika bir makale yayımlamasıyla başladı.
+
+Örneğin, haftasonu yürüyüşümde İstinye sahilinde çekmiş olduğum fotoğrafa Vincent Van Gogh'un Yıldızlı Gece (Starry Night) eserinin stilini transfer edersek aşağıdaki gibi görünecektir. Gerçekten artistik! 
+
+### ⭐️Devamı için blog yazımı okuyun ya da YouTube anlatımını izleyin! (bağlantılar yakında eklenecektir...)
 
 <img align="left" src="https://cdn-images-1.medium.com/max/800/1*r2T1RTjGMyCvYwY3EIOp1Q.gif">
-
 
 <img align="right" src="1github.PNG">
 <img align="right" src="2github.PNG">
