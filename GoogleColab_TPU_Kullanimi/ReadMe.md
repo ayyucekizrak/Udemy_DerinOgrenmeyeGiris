@@ -6,7 +6,7 @@
 
 * Google Colab TPU Ücretsiz Servisi Kullanımı
 
-⚠️Detayları [Adım Adım Google Colab ücretsiz TPU Kullanımı]() Blog Yazımdan Takip Edebilirsiniz!
+⚠️Detayları [Adım Adım Google Colab ücretsiz TPU Kullanımı](https://medium.com/@ayyucekizrak/ad%C4%B1m-ad%C4%B1m-google-colab-%C3%BCcretsiz-tpu-kullan%C4%B1m%C4%B1-621dc6e5487d) Blog Yazımdan Takip Edebilirsiniz!
 
 ### Google'ın sunduğu bu teknolojinin arkasındaki ekibe göre, yapay sinir ağları temelinden faydalanan yapay zeka üreten TPU'lar, CPU ve GPU'lara göre 15 ila 30 kat daha hızlıdır!
 <img align="left" src="https://i.ytimg.com/vi/78P0pBj-i4c/maxresdefault.jpg">
