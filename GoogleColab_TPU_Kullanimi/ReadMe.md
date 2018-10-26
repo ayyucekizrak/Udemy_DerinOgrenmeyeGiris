@@ -3,7 +3,6 @@
 Blog Yazısından Detayaları Takip Edebilirsiniz!
 ### Google'ın sunduğu bu teknolojinin arkasındaki ekibe göre, yapay sinir ağları temelinden faydalanan yapay zeka üreten TPU'lar, CPU ve GPU'lara göre 15 ila 30 kat daha hızlıdır!
 <img align="left" src="https://i.ytimg.com/vi/78P0pBj-i4c/maxresdefault.jpg">
-----
 
 * TPU Nedir?
 
