@@ -10,7 +10,7 @@ Blog Yazısından Detayaları Takip Edebilirsiniz!
 
 * Google Colab TPU Ücretsiz Servisi Kullanımı
 
-1️⃣ [MNIST veri kümesi kullanarak Evrişimli Sinir Ağı (Convolutional Neural Network-CNN) eğitimi]()
+1️⃣ [MNIST veri kümesi kullanarak Evrişimli Sinir Ağı (Convolutional Neural Network-CNN) eğitimi](https://colab.research.google.com/github/ayyuce/drive/1GnC-orlPdmVo0qCylw18uLImFACQAdYQ)
 
 2️⃣ [Fashion MNIST veri kümesi kullanarak Evrişimli Sinir Ağı (Convolutional Neural Network-CNN) eğitimi]()
 
