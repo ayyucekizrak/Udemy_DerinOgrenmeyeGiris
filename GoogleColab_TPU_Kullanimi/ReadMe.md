@@ -12,8 +12,8 @@ Blog Yazısından Detayaları Takip Edebilirsiniz!
 
 1️⃣ [MNIST veri kümesi kullanarak Evrişimli Sinir Ağı (Convolutional Neural Network-CNN) eğitimi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/GoogleColab_TPU_Kullanimi/MNIST_TPU_Egitim.ipynb)
 
-2️⃣ [Fashion MNIST veri kümesi kullanarak Evrişimli Sinir Ağı (Convolutional Neural Network-CNN) eğitimi]()
+2️⃣ [Fashion MNIST veri kümesi kullanarak Evrişimli Sinir Ağı (Convolutional Neural Network-CNN) eğitimi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/GoogleColab_TPU_Kullanimi/Fashion_MNIST_TPU_Egitimi.ipynb)
 
-3️⃣ [Shakespeare veri kümesi kullanarak Uzun-Kısa Vadeli Bellek (Long-Short Term Memory-LSTM) eğitimi]()
+3️⃣ [Shakespeare veri kümesi kullanarak Uzun-Kısa Vadeli Bellek (Long-Short Term Memory-LSTM) eğitimi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/GoogleColab_TPU_Kullanimi/LSTM__TPU_Egitimi.ipynb)
 
 🌈 Google Colab TPU'ya ücretsiz erişim sağlayarak, kesinlikle bizim için keşfedeceğimiz yepyeni bir dünya açtı !
