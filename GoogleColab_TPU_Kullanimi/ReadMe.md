@@ -16,4 +16,4 @@ Blog Yazısından Detayaları Takip Edebilirsiniz!
 
 3️⃣ [Shakespeare veri kümesi kullanarak Uzun-Kısa Vadeli Bellek (Long-Short Term Memory-LSTM) eğitimi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/GoogleColab_TPU_Kullanimi/LSTM__TPU_Egitimi.ipynb)
 
-🌈 Google Colab TPU'ya ücretsiz erişim sağlayarak, kesinlikle bizim için keşfedeceğimiz yepyeni bir dünya açtı !
+🌈 Google Colab TPU'ya ücretsiz erişim sağlayarak, bize keşfedeceğimiz yepyeni bir dünya açtı !
