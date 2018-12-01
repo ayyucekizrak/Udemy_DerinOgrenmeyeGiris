@@ -147,7 +147,7 @@ print('Test Accuracy:', score[1])
 
 """**Rastgele değer için test işlemi**"""
 
-model_test = model.save('save_models/mnist_model.h5')
+model_test = load_model('save_models/mnist_model.h5')
 
 test_image = x_test[32]
 y_test[32]
