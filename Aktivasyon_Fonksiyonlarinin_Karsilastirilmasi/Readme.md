@@ -6,7 +6,16 @@ En iyi bilinen sigmoid fonksiyonuna alternatif olan lineer olmayan aktivasyon fo
 
 [Derin Öğrenme İçin Aktivasyon Fonksiyonlarının Karşılaştırılması- Google Colab Notebook](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi/Aktivasyon_Fonksiyonlar%C4%B1_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1.ipynb)
 
+| AKTİVASYON FONKSİYONU   | TEST DOĞRULUĞU | TEST YİTİMİ   |
+| -------------           | -------------  | ------------- |
+| Sigmoid                 | 0,9866         | 0,0567        |
+| Hiperbolik Tanjant      | 0,9905         | 0,0474        |
+| ReLU                    | 0,9929         | 0,0401        |
+| Leaky ReLU              | 0,9925         | 0,0403        |
+| Swish                   | 0,9922         | 0,0412        |
+
 ## YAKINDA!!!
 ### ⭐️Devamı için [blog yazımı okuyun](https://) ya da  [YouTube anlatımını izleyin](https://)! 
+
 
 <img align="left" src="fonksiyonlar.png">
