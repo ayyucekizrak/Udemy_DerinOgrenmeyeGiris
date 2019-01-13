@@ -6,4 +6,4 @@ En iyi bilinen sigmoid fonksiyonuna alternatif olan lineer olmayan aktivasyon fo
 
 ### ⭐️Devamı için [blog yazımı okuyun](https://medium.com/deep-learning-turkiye/) ya da  [YouTube anlatımını izleyin](https://www.youtube.com/)! 
 
-<img align="right" src="3github.PNG">
+<img align="right" src="fonksiyonlar.png">
