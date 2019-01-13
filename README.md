@@ -47,8 +47,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Veri Artırma Örnek 2](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_2.ipynb)
    
-  * Aktivasyon Fonksiyonları Karşılaştırması 
-  >Eklenecek
+  * [Aktivasyon Fonksiyonları Karşılaştırması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi) 
    
   * Optimizasyon Yöntemlerinin Karşılaştırılması 
   >Eklenecek
