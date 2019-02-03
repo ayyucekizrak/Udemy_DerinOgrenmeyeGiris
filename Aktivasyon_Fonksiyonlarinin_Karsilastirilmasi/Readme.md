@@ -15,7 +15,7 @@ En iyi bilinen sigmoid fonksiyonuna alternatif olan lineer olmayan aktivasyon fo
 | Swish                   | 0,9922         | 0,0412        |
 
 ## YAKINDA!!!
-### ⭐️Devamı için [blog yazımı okuyun](https://) ya da  [YouTube anlatımını izleyin](https://)! 
+### ⭐️Devamı için [blog yazımı okuyun](https://) ya da  [YouTube anlatımını izleyin](https://www.youtube.com/watch?v=ZMkLC-ebIqE&lc=z23ycfpylrbgd35gq04t1aokges1i24xfrpexcolv3yhrk0h00410)! 
 
 
 <img align="left" src="AktivasyonFonksiyonları.png">
