@@ -14,7 +14,7 @@ En iyi bilinen sigmoid fonksiyonuna alternatif olan lineer olmayan aktivasyon fo
 | Leaky ReLU              | 0,9925         | 0,0403        |
 | Swish                   | 0,9922         | 0,0412        |
 
-## YAKINDA!!!
+## YAYINDA!!!
 ### ⭐️Devamı için [blog yazımı okuyun](https://) ya da  [YouTube anlatımını izleyin](https://www.youtube.com/watch?v=ZMkLC-ebIqE&lc=z23ycfpylrbgd35gq04t1aokges1i24xfrpexcolv3yhrk0h00410)! 
 
 
