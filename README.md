@@ -49,8 +49,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Aktivasyon Fonksiyonları Karşılaştırması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi) 
    
-  * Optimizasyon Yöntemlerinin Karşılaştırılması 
-  >Eklenecek
+  * [Optimizasyon Yöntemlerinin Karşılaştırılması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Optimizasyon_Algoritmalarinin_Karsilastirilmasi)
    
   * Aşırı Uydurma (Overfitting) ve Erken Durdurma (Early Stopping) 
   >Eklenecek
