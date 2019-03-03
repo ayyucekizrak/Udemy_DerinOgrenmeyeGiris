@@ -9,4 +9,4 @@ Hayatımız optimizasyonla ilgili aslında evden çıkıyorsunuz işe, okula, ar
 🎯 İşte özetle optimizasyon bu! O halde bu çalışma dosyası ile basit bir karşılaştırma yapalım. Ama unutmayın her problem ve veri için farklı optimizasyon fonksiyonşarı daha iyi cevap verebilir.
 
 
-<img align="left" src="https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/master/Optimizasyon_Algoritmalarinin_Karsilastirilmasi/gradient_cover.PNG">
+<img align="left" src="https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Optimizasyon_Algoritmalarinin_Karsilastirilmasi/gradient_cover.PNG">
