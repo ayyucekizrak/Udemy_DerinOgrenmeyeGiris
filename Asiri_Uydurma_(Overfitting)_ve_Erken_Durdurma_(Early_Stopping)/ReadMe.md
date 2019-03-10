@@ -17,6 +17,9 @@ Hadi birlikte işlemleri nasıl yapmamız gerektiğine adım adım bakalım.
 ---
 <img align="left" src="https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/dance-2.gif">
 
+
+
+
 ---
 
 [Aynı çalışmanın MNIST veri seti örneğinde basit bir evrişimli sinir ağı modeli için hazırlanmış versiyonuna buradan ulaşabilirsiniz!](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/AsiriUydurma_Overfitting_v2.ipynb)
