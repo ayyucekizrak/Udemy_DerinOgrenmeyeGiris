@@ -16,4 +16,4 @@ Hadi birlikte işlemleri nasıl yapmamız gerektiğine adım adım bakalım.
 Aynı çalışmanın MNIST veri seti örneğinde basit bir evrişimli sinir ağı modeli için hazırlanmış versiyonuna buradan ulaşabilirsiniz!
 
 
-<img align="left" src="https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Optimizasyon_Algoritmalarinin_Karsilastirilmasi/gradient_cover.PNG">
+<img align="left" src="https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/dance-2.gif">
