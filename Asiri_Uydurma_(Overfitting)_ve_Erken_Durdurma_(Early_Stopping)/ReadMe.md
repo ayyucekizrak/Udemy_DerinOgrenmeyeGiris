@@ -15,4 +15,4 @@ Hadi birlikte işlemleri nasıl yapmamız gerektiğine adım adım bakalım.
 ---
 Aynı çalışmanın MNIST veri seti örneğinde basit bir evrişimli sinir ağı modeli için hazırlanmış versiyonuna buradan ulaşabilirsiniz!
 
-![Erken Durdurma](https://i.hizliresim.com/16oV45.gif)](https://hizliresim.com/16oV45)
+[![Erken Durdurma](https://i.hizliresim.com/16oV45.gif)](https://hizliresim.com/16oV45)
