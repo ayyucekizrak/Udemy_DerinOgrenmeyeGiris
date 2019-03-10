@@ -16,5 +16,4 @@ Hadi birlikte işlemleri nasıl yapmamız gerektiğine adım adım bakalım.
 Aynı çalışmanın MNIST veri seti örneğinde basit bir evrişimli sinir ağı modeli için hazırlanmış versiyonuna buradan ulaşabilirsiniz!
 
 
-<img align="left" src="https://hizliresim.com/16oV45">
-[Erken Durdurma](https://hizliresim.com/16oV45)
+<img align="left" src="https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Optimizasyon_Algoritmalarinin_Karsilastirilmasi/gradient_cover.PNG">
