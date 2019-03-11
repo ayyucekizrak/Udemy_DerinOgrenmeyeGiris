@@ -2,12 +2,12 @@
 
 📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/AsiriUydurma_Overfitting_v1.ipynb) **Jupyter Not Defteri** 
 ---
-# Aşırı Uydurma ve Erken Durdurma :traffic_light:
+# Aşırı Öğrenme/Uydurma ve Erken Durdurma :traffic_light:
 
 Overfitting and Early Stopping
 
 ---
-### :question: Basit Bir Öğrenme Modelinde Aşırı Uydurma (Overfitting) Probleminin Çözümü: 
+### :question: Basit Bir Öğrenme Modelinde Aşırı Öğrenme/Uydurma (Overfitting) Probleminin Çözümü: 
 Erken Durdurma (Early Stopping) :no_good:
 ---
 Bunun için iki sınıflı rastgele değerlere sahip bir veri seti için basit bir çok katmanlı sinir ağı (Multi Layer Perceoptron) oluşturulmuştur. 
