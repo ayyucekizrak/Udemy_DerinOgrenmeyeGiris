@@ -107,8 +107,6 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 ----
 
-<img align="right" src="http://www.ayyucekizrak.com/wp-content/uploads/2018/03/logooooooo-300x158.jpg"> 
-
 ## Derse Yardımcı Kaynaklar? :books: :innocent: 
 
 * :dart: [Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1) 
