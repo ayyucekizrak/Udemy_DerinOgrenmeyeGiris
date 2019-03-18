@@ -53,8 +53,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Aşırı Öğrenme/Uydurma (Overfitting) ve Erken Durdurma (Early Stopping)](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/ReadMe.md) 
    
-  * Transfer Öğrenme (Transfer Learning) ve Fine-Tuning 
-  >Eklenecek
+  * [Transfer Öğrenme (Transfer Learning) ve Fine-Tuning](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/TransferOgrenme_FineTuning) 
    
 **3. EVRİŞİMLİ SİNİR AĞLARI (CNN)** 
    
