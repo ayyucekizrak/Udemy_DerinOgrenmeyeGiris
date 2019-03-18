@@ -115,11 +115,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 * :rainbow: [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e)
 
-* :bookmark_tabs: [Deep Learning Türkiye Blog](https://medium.com/deep-learning-turkiye)
-
-* :star: [Deep Learning Türkiye Github](https://github.com/deeplearningturkiye)
-
-* :question: **[Deep Learning Türkiye Soru-Cevap Sitesi](https://sorucevap.deeplearningturkiye.com/)** :ok_hand:
+* :rainbow: [Adım Adım Google Colab Ücretsiz TPU Kullanımı](https://medium.com/deep-learning-turkiye/ad%C4%B1m-ad%C4%B1m-google-colab-%C3%BCcretsiz-tpu-kullan%C4%B1m%C4%B1-621dc6e5487d)
 
 ----
 [<img align="right" src="http://www.i2symbol.com/images/symbols/style-letters/circled_latin_capital_letter_a_u24B6_icon_128x128.png">](http://www.ayyucekizrak.com/)
