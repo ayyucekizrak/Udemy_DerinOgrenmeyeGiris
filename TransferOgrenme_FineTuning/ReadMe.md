@@ -45,6 +45,10 @@ Aşağıdaki şema ile nasıl bir tercihte bulunabileceğimizi basit bir şekild
 ### 🔥Bunun için IMAGENET veri seti için ResNet50 derin yapay sinir ağı ile eğitilmiş ve eğitim sonundaki ağırlık parametreleri kaydedilmiştir. 
 
 ---
+⚡️[**Algorithmia** üzerinde kendi modelinizi API olarak herkesin erişimine açabiliyorsunuz.
+**ImageNet** veriseti üzerinde eğitilmiş **ResNet** derin öğrenme modeliyle resim sınıflandırma algoritmasını aşağıdaki linkten üye olarak ücretsiz şekilde deneyebilirsiniz. Bu çalışması için **Yavuz Kömeçoğlu**](https://algorithmia.com/algorithms/yavuzkomecoglu/ImageClassification)'na teşekkürler.
+
+---
  ✏️ **Daha fazla kaynak için aşağıdaki bağlantılardan faydalanabilirsiniz:**
 
 [Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
