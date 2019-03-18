@@ -29,9 +29,9 @@ Bir yapay öğrenme modelinin öğrendiklerinden faydalanarak yeni bir problemi 
 
 🎯 **2. Versiyon:**  Eğitilmiş modelin bir kısmını alıp devamında veri kümesinde bulunmayan kendi problemimize ait veriler için eğitiriz. Böyle yaptığımızda Paratmetre hesabı yani işlem yükünü azaltmış oluyoruz ve zamandan da kazanmış oluyoruz. Aynı zamanda kendi problemimiz için verilerimiz kısıtlı olsa dahi bu yöntemle büyük veri setlerinde öğrenilen temel öznitelikler açısından da daha yüksek bir başarıya ulaşılmış olur. Fakat bu yöntemi uygularkan de dikkat etmemiz gereken stratejiler var. 
 
->> - Kullanacağımız veri önceden eğitilen modelin veri kümesiyle ne kadar benzer ya da farklı
+>>  Kullanacağımız veri önceden eğitilen modelin veri kümesiyle ne kadar benzer ya da farklı
 
->>-  Kullanacağımız verinin büyüklüğü
+>>  Kullanacağımız verinin büyüklüğü
 
 Aşağıdaki şema ile nasıl bir tercihte bulunabileceğimizi basit bir şekilde belirleyebiliriz.
 
@@ -44,7 +44,7 @@ Aşağıdaki şema ile nasıl bir tercihte bulunabileceğimizi basit bir şekild
 ### 🔥Bunun için IMAGENET veri seti için ResNet50 derin yapay sinir ağı ile eğitilmiş ve eğitim sonundaki ağırlık parametreleri kaydedilmiştir. 
 
 ---
- ✏️ ** Daha fazla kaynak için aşağıdaki bağlantılardan faydalanabilirsiniz:**
+ ✏️ **Daha fazla kaynak için aşağıdaki bağlantılardan faydalanabilirsiniz:**
 
 [Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1)
 
