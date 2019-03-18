@@ -47,7 +47,7 @@ Aşağıdaki şema ile nasıl bir tercihte bulunabileceğimizi basit bir şekild
 ---
 ⚡️[**Algorithmia** üzerinde kendi modelinizi API olarak herkesin erişimine açabiliyorsunuz.
 **ImageNet** veriseti üzerinde eğitilmiş **ResNet** derin öğrenme modeliyle resim sınıflandırma algoritmasını aşağıdaki linkten üye olarak ücretsiz şekilde deneyebilirsiniz. Bu çalışması için **Yavuz Kömeçoğlu**'na teşekkürler.](https://algorithmia.com/algorithms/yavuzkomecoglu/ImageClassification)
-![]()
+![](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/TransferOgrenme_FineTuning/Algortihma.jpg)
 
 ---
  ✏️ **Daha fazla kaynak için aşağıdaki bağlantılardan faydalanabilirsiniz:**
