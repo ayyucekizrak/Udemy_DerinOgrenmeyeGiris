@@ -7,7 +7,8 @@ Fine-Tuning and Transfer Learning 👽
 
 
 ---
-
+Bir kuşun öğrendiklerini size aktarabildiğini düşünün ya da sizin öğrendiklerinizi bir balığa, kulağa çılgınca geliyor değil mi? 
+Ya da şöyle diyelim ben bir bardağı tanımak için atalarımdan bu yana ve doğduğumdan beri öğrendiğim basit özellikler var (kenar, köşe, şekil, maddesel yapısı vb.) bunlardan yola çıkarak hiç görmediğim bardakları ya da hiç görmediğim bazı nesnelerin bardak olmadığına dair kararlar veriyorum. Yalnızca bu bilgiyi öğrenen bir makinenin bildiğiklerini başka bir makineye transfer edip tekrar öğrenme sürecini atlamasıdır desem! Neyse hadi başlayalım 😊
 
  **Bilgisayarlı görü problemi üzerinden yola çıkalım ancak birçok veri ve problem tipi için uygulanabilecek bir yöntemden bahsediyorum. Öyle ki bir veri kümesi var sizin tanımak istediğiniz nesne de içinde var ancak veri seti çok büyük (bu harika bişey 😃) model de çok başarılı (e bu da harika 🤗) ama sizin o modeli o veri kümesi için eğitmeniz günler belki haftalar alacak. Gerçi burda eğitilmişi var!** 🧐 
  
