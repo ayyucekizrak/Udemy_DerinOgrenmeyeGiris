@@ -111,7 +111,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 * :dart: [Yapay Zeka ve Derin Öğrenmeye Başlama Rehberi](https://medium.com/deep-learning-turkiye/yapay-zekaya-ba%C5%9Flama-rehberi-91e79d3de8e1) 
 
-* :rainbow: [Google Colab ile Ücretsiz GPU Kullanımı](https://medium.com/deep-learning-turkiye/google-colab-ile-%C3%BCcretsiz-gpu-kullan%C4%B1m%C4%B1-30fdb7dd822e)
+* :rainbow: [Google Colab ile Ücretsiz GPU Kullanımı](https://www.youtube.com/watch?v=bT-T1i_Rpy8&t=3s)
 
 * :rainbow: [Adım Adım Google Colab Ücretsiz TPU Kullanımı](https://medium.com/deep-learning-turkiye/ad%C4%B1m-ad%C4%B1m-google-colab-%C3%BCcretsiz-tpu-kullan%C4%B1m%C4%B1-621dc6e5487d)
 
@@ -119,5 +119,5 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 :alien: [Merve Ayyüce Kızrak](http://www.ayyucekizrak.com/) 
 ----
-**Haliç Üniversitesi**'ne çalışmalarıma destek verdiği için, **[Deep Learning Türkiye](http://deeplearningturkiye.com/)** topluluğuna her daim yanımda olup motivasyonumu artırdığı için, ve tüm bu çalışmalar sırasında sabırlarını esirgemeyen arkadaşlarıma bilhassa **[Neslihan](https://www.linkedin.com/in/neslihan-cor-8206446/)** ve **Ayça**'ya, müziksiz yapamayacağım için beni çok iyi tanıyan :notes: **[Spotify](https://open.spotify.com/user/ayyucekizrak)**'ıma, tüm hazırlıklarımı yaparken yardımlarıyla derse bizzat katkı sağlayan Fuat Beşer ve **[Yavuz Kömeçoğlu](http://yavuzkomecoglu.com/)**'na tek tek teşekkür ederim. Görselleriyle çalışmalarımı şenlendiren köpeğimiz :dog: **Olips** seni de unutmadım! Çok sevgili **aileme** de teşekkürlerimi sunarım. :innocent:
+Ders notlarını oluştururken bana destek veren herkese, tüm bu çalışmalar sırasında sabırlarını esirgemeyen arkadaşlarıma bilhassa **[Neslihan](https://www.linkedin.com/in/neslihan-cor-8206446/)** ve **Ayça**'ya, müziksiz yapamayacağım için beni çok iyi tanıyan :notes: **[Spotify](https://open.spotify.com/user/ayyucekizrak)**'ıma, tüm hazırlıklarımı yaparken yardımlarıyla derse bizzat katkı sağlayan adını sarf ettiğim edemediğim tüm tanıdıklarıma ve özellikle **[Yavuz Kömeçoğlu](http://yavuzkomecoglu.com/)**'na tek tek teşekkür ederim. Görselleriyle çalışmalarımı şenlendiren köpeğimiz :dog: **Olips** seni de unutmadım! Çok sevgili **aileme** de teşekkürlerimi sunarım. :innocent:
 
