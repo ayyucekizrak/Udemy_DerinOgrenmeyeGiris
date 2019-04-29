@@ -9,7 +9,6 @@ En iyi bilinen sigmoid fonksiyonuna alternatif olan lineer olmayan aktivasyon fo
 
 📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi/Aktivasyon_Fonksiyonlar%C4%B1_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1.ipynb) **Jupyter Not Defteri** 
 
-[Derin Öğrenme İçin Aktivasyon Fonksiyonlarının Karşılaştırılması- Google Colab Notebook](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi/Aktivasyon_Fonksiyonlar%C4%B1_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1.ipynb)
 
 | AKTİVASYON FONKSİYONU   | TEST DOĞRULUĞU | TEST YİTİMİ   |
 | -------------           | -------------  | ------------- |
