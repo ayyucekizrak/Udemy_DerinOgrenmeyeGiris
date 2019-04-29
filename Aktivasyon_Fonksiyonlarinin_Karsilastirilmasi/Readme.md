@@ -4,6 +4,11 @@ Aktivasyon fonksiyonları sinir ağlarında kilit bir rol oynar, bu nedenle daha
 
 En iyi bilinen sigmoid fonksiyonuna alternatif olan lineer olmayan aktivasyon fonksiyonlarını tanıtarak işe başlamak gerek. Aktivasyon fonksiyonlarının son performanslarını değerlendirirken birçok farklı koşulun önemi olduğunu unutmamak gerekir. O halde hazırsanız kolları sıvayalım ve biraz ellerimizi kirletelim!
 
+📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi/Aktivasyon_Fonksiyonlar%C4%B1_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1.ipynb) **Google Colab Not Defteri**
+
+
+📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi/Aktivasyon_Fonksiyonlar%C4%B1_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1.ipynb) **Jupyter Not Defteri** 
+
 [Derin Öğrenme İçin Aktivasyon Fonksiyonlarının Karşılaştırılması- Google Colab Notebook](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi/Aktivasyon_Fonksiyonlar%C4%B1_Kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rmas%C4%B1.ipynb)
 
 | AKTİVASYON FONKSİYONU   | TEST DOĞRULUĞU | TEST YİTİMİ   |
