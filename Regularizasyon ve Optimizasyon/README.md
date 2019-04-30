@@ -2,7 +2,7 @@
 ### 🔥Yapay Öğrenme Modeli Geliştirirken Genellikle Karşılaşılan Problemler ve Olası Çözümleri🍀
 ---
 **ÖZET**
-💾 ### [Tek sayfa Yapay Öğrenme Modeli Geliştirme Püf Noktaları El Özeti'ni indirmek için PDF veya PNG tıklayınız!](https://github.com/ayyucekizrak/Yapay_Ogrenme_Modeli_Gelistirme_Puf_Noktalari)
+### 💾 [Tek sayfa Yapay Öğrenme Modeli Geliştirme Püf Noktaları El Özeti'ni indirmek için PDF veya PNG tıklayınız!](https://github.com/ayyucekizrak/Yapay_Ogrenme_Modeli_Gelistirme_Puf_Noktalari)
 ---
 
 - **VERİ ARTIRMA ÖRNEKLERİ**
