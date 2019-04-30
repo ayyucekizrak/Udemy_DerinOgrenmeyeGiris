@@ -2,12 +2,15 @@
 
 Özellikle seri verilerde ve zamana bağlı bellek bilgisi gerektiğinde terhic edilen yöntemlerdendir. Ses, müzik, doğal dil işleme, öngörücü bakım gibi konular başarılı sonuç üretilen ve ilk akla gelen konu başlıklarıdır.
 
-- **Karakter Seviyesi Dil Modeli - Dinazor Adası** ![](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/dinazor.gif)
- 
+- **Karakter Seviyesi Dil Modeli - Dinazor Adası** 
+
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/Karakter_Seviyesi_Dil_Modeli_Dinazor_Adası.ipynb) **Google Colab Not Defteri**
 
 
 📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/Karakter_Seviyesi_Dil_Modeli_Dinazor_Adası.ipynb) **Jupyter Not Defteri**
+
+![](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/dinazor.gif)
+ 
 
 ---
 
