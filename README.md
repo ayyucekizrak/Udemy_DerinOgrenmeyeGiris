@@ -35,57 +35,58 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 **1. YAPAY SİNİR AĞLARI** 
    
-  * [Google Colab Servisi Kullanımı](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/ilkadim.ipynb)
+  * [Google Colab Servisi Kullanımı](https://www.youtube.com/watch?v=bT-T1i_Rpy8&t=3s)
    
-  * [Python Numpy Giriş](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Python%20Numpy%20Giris/Python_Numpy_Giris.ipynb)
+  * [Python Numpy Giriş](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Python_Numpy_Giris)
    
-  * [Titanic Veri Kümesi Görselleştirme](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/Titanic_Veri_Gorsellestirme.ipynb)
-   
-  * [Titanic Verisi Sınıflandırma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Titanic%20Gorsellestirme%20ve%20Siniflama/titanic.ipynb)
+  * [Titanic Veri Kümesi Görselleştirme ve Sınıflandırma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Titanic%20Gorsellestirme%20ve%20Siniflama)
+
 
 **2. DERİN ÖĞRENME MODELİ GELİŞTİRME REHBERİ**
    
-  * [Veri Artırma Örnek 1](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_1.ipynb)
+  * [Yapay Öğrenme Modeli Geliştirirken Genellikle Karşılaşılan Problemler ve Olası Çözümleri](https://github.com/ayyucekizrak/Yapay_Ogrenme_Modeli_Gelistirme_Puf_Noktalari)
    
-  * [Veri Artırma Örnek 2](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Regularizasyon%20ve%20Optimizasyon/veriartirma_2.ipynb)
+  * [Veri Artırma Örnekleri](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Regularizasyon%20ve%20Optimizasyon)
    
   * [Aktivasyon Fonksiyonları Karşılaştırması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Aktivasyon_Fonksiyonlarinin_Karsilastirilmasi) 
    
   * [Optimizasyon Yöntemlerinin Karşılaştırılması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Optimizasyon_Algoritmalarinin_Karsilastirilmasi)
    
-  * [Aşırı Öğrenme/Uydurma (Overfitting) ve Erken Durdurma (Early Stopping)](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)/ReadMe.md) 
+  * [Aşırı Öğrenme/Uydurma (Overfitting) ve Erken Durdurma (Early Stopping)](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping) 
    
   * [Transfer Öğrenme (Transfer Learning) ve Fine-Tuning](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/TransferOgrenme_FineTuning) 
    
-**3. EVRİŞİMLİ SİNİR AĞLARI (CNN)** 
+**3. [EVRİŞİMLİ SİNİR AĞLARI (CNN)**](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari) 
    
   * [Temel Evrişimli Sinir Ağı Oluşturma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/EvrisimliSinirAgi_AdimAdim.ipynb)
    
   * [Evrişimli Sinir Ağı ile (MNIST) El Yazısı Rakam Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/RakamTanima_CNN.ipynb) 
    
-  * [VGG-16 ile Nesne Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Nesne_Tanima/VGG16_NesneTanima.ipynb)
+  * [VGG-16 ile Nesne Tanıma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Nesne_Tanima)
    
-  * [ResNet 50 ile Nesne Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Nesne_Tanima/ResNet50_NesneTanima_ImageNet.ipynb)
+  * [ResNet 50 ile Nesne Tanıma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Nesne_Tanima)
    
   * [Evrişimli Sinir Ağları ile Fashion MNIST](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Fashion_MNIST.ipynb)
    
-  * [Evrişimli Sinir Ağı ile Duygu Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DuyguTanima_Demo1.ipynb)
+  * [Evrişimli Sinir Ağı ile Duygu Tanıma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Duygu_Tanima)
    
-  * [Evrişimli Sinir Ağı ile Duygu ve Cinsiyet Tanıma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Duygu_Tanima/DuyguTanima_Demo2.ipynb)
+  * [Evrişimli Sinir Ağı ile Duygu ve Cinsiyet Tanıma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Duygu_Tanima)
    
-  * [YOLO ile Nesne Yeri Tespiti](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti/YOLOv2_Darkflow_Uygulama.ipynb)
-  * [Artistik Stil Transferi](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Artistik_Stil_Transferi/ArtistikStilTransferi.ipynb)
+  * [YOLO ile Nesne Yeri Tespiti](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti)
+  
+  * [Artistik Stil Transferi](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Artistik_Stil_Transferi)
 
-**4. ÖZYİNELEMELİ SİNİR AĞLARI / UZUN-KISA VADELİ BELLEK**
+**4. [ÖZYİNELEMELİ SİNİR AĞLARI / UZUN-KISA VADELİ BELLEK**](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Ozyinelemeli_Sinir_Aglar)
    
-  * [Karakter Seviyesi Dil Modeli ile Dinazor İsimleri Üretme](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/Karakter_Seviyesi_Dil_Modeli_Dinazor_Adas%C4%B1.ipynb)
+  * [Karakter Seviyesi Dil Modeli ile Dinazor İsimleri Üretme](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Ozyinelemeli_Sinir_Aglar)
+  
   * [Uzun-Kısa Vadeli Bellek (LSTM) Kullanılarak Öngörücü Bakım (Predictive Maintenance) Kestirimi]  
     
     >Eklenecek
     
 **5. KAPSÜL AĞLARI** 
    
-  * [Kapsül Ağları ile MNIST Uygulaması](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/KapsulAglari/KapsulAglari_MNIST.ipynb)
+  * [Kapsül Ağları ile MNIST Uygulaması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/KapsulAglari)
 
 **6. ÇEKİŞMELİ ÜRETİCİ AĞLAR**
   
