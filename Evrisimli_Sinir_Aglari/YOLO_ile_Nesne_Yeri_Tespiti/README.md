@@ -2,7 +2,8 @@
 ### YOLO: Gerçek Zamanlı Nesne Tespiti Kütüphanesi (Darknet) Kurulumu ve Uygulaması Hakkında detaylı kaynakları takip ediniz!!!
 ---
 - [YOLO: Gerçek Zamanlı Nesne Tespiti Kütüphanesi (Darknet) Kurulumu - Yavuz Kömeçoğlu](http://blog.yavuzz.com/post/gercek-zamanli-nesne-tespiti-kutuphanesi-darknet-kurulumu)
-- [YOLO'da Kendi Özel Kişi yada Nesnemizin Algılanmasını Nasıl Sağlarız?](http://blog.yavuzz.com/post/yolo-da-kendi-ozel-nesnemizin-algilanmasini-nasil-saglariz)
+- [YOLO'da Kendi Özel Kişi yada Nesnemizin Algılanmasını Nasıl Sağlarız? -  Yavuz Kömeçoğlu](http://blog.yavuzz.com/post/yolo-da-kendi-ozel-nesnemizin-algilanmasini-nasil-saglariz)
+
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti/YOLOv2_Darkflow_Uygulama.ipynb) **Google Colab Not Defteri**
 
 
