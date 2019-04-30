@@ -2,7 +2,7 @@
 
 ### ‘Derin Öğrenme’ (Deep Learning) denince akla ilk gelen Evrişimli Sinir Ağları’dır. Peki neden derin öğrenme, nedir derin öğrenme? Günümüzde yaşanan veri patlaması sonucu adını verdiğimiz ‘Büyük Veri’ (Big Data) beraberinde hesaplama karmaşıklığı getirdi. Ama esas mevzu verinin sadece büyük olması değil. Artık verilerden daha fazla şey beklememiz. Daha farklı bakmamız!
 
-**["Derine Daha Derine"](https://medium.com/deep-learning-turkiye/deri%CC%87ne-daha-deri%CC%87ne-evri%C5%9Fimli-sinir-a%C4%9Flar%C4%B1-2813a2c8b2a9)** başlıklı yazımda daha detaylı açıklamalara erişmebilirsiniz!
+**["Derine Daha Derine"](https://medium.com/deep-learning-turkiye/deri%CC%87ne-daha-deri%CC%87ne-evri%C5%9Fimli-sinir-a%C4%9Flar%C4%B1-2813a2c8b2a9)** başlıklı yazımda daha detaylı açıklamalara erişebilirsiniz!
 
 ## Konu başlıklarına dallanarak daha fazla kaynağa ulaşabilirsiniz!
 
