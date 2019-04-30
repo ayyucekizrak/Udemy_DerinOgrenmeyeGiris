@@ -6,18 +6,18 @@
 
 ## Konu başlıklarına dallanarak daha fazla kaynağa ulaşabilirsiniz!
 
-### * Adım Adım Evrişimli Sinir Ağı Oluşturma
+### - Adım Adım Evrişimli Sinir Ağı Oluşturma
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/EvrisimliSinirAgi_AdimAdim.ipynb) **Google Colab Not Defteri**
 📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/EvrisimliSinirAgi_AdimAdim.ipynb) **Jupyter Not Defteri** 
-### * Evrişimli Sinir Ağı ile El Yazısı Rakam Tanıma
+### - Evrişimli Sinir Ağı ile El Yazısı Rakam Tanıma
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/RakamTanima_CNN.ipynb) **Google Colab Not Defteri**
 📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/RakamTanima_CNN.ipynb) **Jupyter Not Defteri** 
-### * Evrişimli Sinir Ağı ile FashionMNIST Sınıflama
+### - Evrişimli Sinir Ağı ile FashionMNIST Sınıflama
 📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Fashion_MNIST.ipynb) **Google Colab Not Defteri**
 📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/Fashion_MNIST.ipynb) **Jupyter Not Defteri** 
-### * [Nesne tanıma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Nesne_Tanima)
-### * [Duygu tanıma ve Duygu-Cinsiyet tanıma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Duygu_Tanima)
-### * [Nesne tanıma ve konumlama (YOLO)](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti)
+### - [Nesne tanıma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Nesne_Tanima)
+### - [Duygu tanıma ve Duygu-Cinsiyet tanıma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Duygu_Tanima)
+### - [Nesne tanıma ve konumlama (YOLO)](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti)
 
 ---
 
