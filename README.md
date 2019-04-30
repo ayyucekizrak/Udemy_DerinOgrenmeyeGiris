@@ -56,7 +56,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Transfer Öğrenme (Transfer Learning) ve Fine-Tuning](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/TransferOgrenme_FineTuning) 
    
-**3. [EVRİŞİMLİ SİNİR AĞLARI (CNN)**](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari) 
+**3. [EVRİŞİMLİ SİNİR AĞLARI (CNN)](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari)**
    
   * [Temel Evrişimli Sinir Ağı Oluşturma](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Evrisimli_Sinir_Aglari/EvrisimliSinirAgi_AdimAdim.ipynb)
    
