@@ -1,4 +1,4 @@
-### Python Numpy Giriş
+## Python Numpy Giriş
 
 <img align="right" src="https://www.101computing.net/wp/wp-content/uploads/python-logo-1.png">
 
