@@ -54,7 +54,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Optimizasyon Yöntemlerinin Karşılaştırılması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Optimizasyon_Algoritmalarinin_Karsilastirilmasi)
    
-  * [Aşırı Öğrenme/Uydurma / Overfitting ve Erken Durdurma / Early Stopping](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Asiri_Uydurma_Overfitting_ve_Erken_Durdurma_Early_Stopping) 
+  * [Aşırı Öğrenme/Uydurma / Overfitting ve Erken Durdurma / Early Stopping](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Asiri_Uydurma_(Overfitting)_ve_Erken_Durdurma_(Early_Stopping)) 
    
   * [Transfer Öğrenme (Transfer Learning) ve Fine-Tuning](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/TransferOgrenme_FineTuning) 
   
