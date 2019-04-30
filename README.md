@@ -40,6 +40,8 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
   * [Python Numpy Giriş](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Python_Numpy_Giris)
    
   * [Titanic Veri Kümesi Görselleştirme ve Sınıflandırma](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Titanic%20Gorsellestirme%20ve%20Siniflama)
+  
+  ---
 
 
 **2. DERİN ÖĞRENME MODELİ GELİŞTİRME REHBERİ**
@@ -55,6 +57,8 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
   * [Aşırı Öğrenme/Uydurma / Overfitting ve Erken Durdurma / Early Stopping](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Asiri_Uydurma_Overfitting_ve_Erken_Durdurma_Early_Stopping) 
    
   * [Transfer Öğrenme (Transfer Learning) ve Fine-Tuning](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/TransferOgrenme_FineTuning) 
+  
+  ---
    
 **3. [EVRİŞİMLİ SİNİR AĞLARI (CNN)](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari)**
    
@@ -75,14 +79,18 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
   * [YOLO ile Nesne Yeri Tespiti](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/YOLO_ile_Nesne_Yeri_Tespiti)
   
   * [Artistik Stil Transferi](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Evrisimli_Sinir_Aglari/Artistik_Stil_Transferi)
+  
+  ---
 
-**4. [ÖZYİNELEMELİ SİNİR AĞLARI / UZUN-KISA VADELİ BELLEK**](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Ozyinelemeli_Sinir_Aglar)
+**4. [ÖZYİNELEMELİ SİNİR AĞLARI / UZUN-KISA VADELİ BELLEK](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Ozyinelemeli_Sinir_Aglar)**
    
   * [Karakter Seviyesi Dil Modeli ile Dinazor İsimleri Üretme](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Ozyinelemeli_Sinir_Aglar)
   
   * [Uzun-Kısa Vadeli Bellek (LSTM) Kullanılarak Öngörücü Bakım (Predictive Maintenance) Kestirimi]  
     
     >Eklenecek
+    
+    ---
     
 **5. KAPSÜL AĞLARI** 
    
@@ -92,6 +100,8 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
   
  * Stil Transferi - GAN 
   >Eklenecek
+  
+  ---
 
 **7. PEKİŞTİRMELİ ÖĞRENME**
   
