@@ -12,7 +12,7 @@
 ![](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/Ozyinelemeli_Sinir_Aglar/dinazor.gif)
 
 ### Ulusal Hakemli Dergi Makalesi ve Kaynak Kodları
-🚀 **Uçak Motoru Sağlığı için Uzun - Kısa Süreli Bellek Yöntemi ile Öngörücü Bakım](https://github.com/ayyucekizrak/Predictive_Maintenance_w_LSTM)**
+🚀 **[Uçak Motoru Sağlığı için Uzun - Kısa Süreli Bellek Yöntemi ile Öngörücü Bakım](https://github.com/ayyucekizrak/Predictive_Maintenance_w_LSTM)**
 
 ---
 
