@@ -5,6 +5,11 @@ _“Evrişimli sinir ağlarında kullanılan ortaklama (pooling) işlemi büyük
 
 cümlesi yapay zekaya yeni bir soluk getirdi. Yeni öneri, kapsül ağı (Capsule Network) ile tanışmaya hazır mısınız?
 
+📌[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/KapsulAglari/KapsulAglari_MNIST.ipynb) **Google Colab Not Defteri**
+
+
+📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/KapsulAglari/KapsulAglari_MNIST.ipynb) **Jupyter Not Defteri** 
+
 ---
 
 **Yazısının İngilizce ve geliştirilmiş versiyonu [HEARTBEAT FRITZ AI](https://heartbeat.fritz.ai/capsule-networks-a-new-and-attractive-ai-architecture-bd1198cc8ad4)'da Yayınlandı!**
