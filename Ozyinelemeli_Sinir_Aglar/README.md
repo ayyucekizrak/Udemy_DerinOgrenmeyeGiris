@@ -17,8 +17,9 @@
 ### Uygulamalarla ilgili kaynaklar: 
 
 **[📚Doğal Dil İşlemenin Yakın Tarihi -  Başak Buluz](https://medium.com/@basakbuluz/do%C4%9Fal-dil-i%CC%87%C5%9Flemenin-yak%C4%B1n-tarihi-6f8f62f6fbea)**
+
 **[Çok Gören Mi Bilir, Çok Soran Mı❓ -  Başak Buluz](https://medium.com/deep-learning-turkiye/%C3%A7ok-g%C3%B6ren-mi-bilir-%C3%A7ok-soran-m%C4%B1-4bed5efdba41)**
 
-**Kaynak kodlarıyla birlikte ilgili makalem yakında yayında! _Uçak Sağlık Sistemleri için Derin Öğrenme Yöntemi ile Öngörücü Bakım_ 
+ 
 
 
