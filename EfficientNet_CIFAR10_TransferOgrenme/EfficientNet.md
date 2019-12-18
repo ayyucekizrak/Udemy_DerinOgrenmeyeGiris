@@ -9,6 +9,8 @@
 
 Rethinking Model Scaling for Convolutional Neural Networks
 
+ ![EfficientNet-Model Olcekleme](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/EfficientNet_CIFAR10_TransferOgrenme/EfficientNet-ModelOlcekleme.png)
+
 ---
 ### EfficientNet'te Transfer Öğrenmenin Etkisi
 ---
