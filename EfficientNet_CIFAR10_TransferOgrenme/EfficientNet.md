@@ -5,14 +5,14 @@
 
 
 ---
-# Ölçeklendirme ile CNN Modelinin Doğruluk ve Verimliliğini Artırma: EfficientNet :octocat:
+## Ölçeklendirme ile CNN Modelinin Doğruluk ve Verimliliğini Artırma: EfficientNet 
 
 Rethinking Model Scaling for Convolutional Neural Networks
 
 ---
 ### EfficientNet'te Transfer Öğrenmenin Etkisi
 ---
-[Ölçeklendirme ile CNN Modelinin Doğruluk ve Verimliliğini Artırma: EfficientNet]() blog yazısının eki olarak hazırlanmış uygulamada [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) veri kümesi üzerinde EfficientNet içi Transfer Öğrenme gerçekleştirilmiştir.
+:octocat: [Ölçeklendirme ile CNN Modelinin Doğruluk ve Verimliliğini Artırma: EfficientNet]() blog yazısının eki olarak hazırlanmış uygulamada [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) veri kümesi üzerinde EfficientNet içi Transfer Öğrenme gerçekleştirilmiştir.
 
 ---
 
