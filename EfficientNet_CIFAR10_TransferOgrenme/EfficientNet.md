@@ -3,13 +3,15 @@
 
 📌[![Open In Jupyter](https://github.com/jupyter/notebook/blob/master/docs/resources/icon_32x32.svg)](https://nbviewer.jupyter.org/github/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/EfficientNet_CIFAR10_TransferOgrenme/EfficientNet_TransferOgrenme.ipynb) **Jupyter Not Defteri** 
 
-
 ---
+
 ## Ölçeklendirme ile CNN Modelinin Doğruluk ve Verimliliğini Artırma: EfficientNet 
 
 Rethinking Model Scaling for Convolutional Neural Networks
 
  ![EfficientNet-Model Olcekleme](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/blob/master/EfficientNet_CIFAR10_TransferOgrenme/EfficientNet-ModelOlcekleme.png)
+
+Model Ölçeklendirme. (a) bir temel ağ örneğidir; (b)-(d) ağın sadece bir boyutunu artıran geleneksel ölçeklendirmedir: genişlik, derinlik veya çözünürlük. (e) her üç boyutu da sabit bir oranla eşit şekilde ölçeklendiren önerilen bileşik ölçeklendirme yöntemidir.
 
 ---
 ### EfficientNet'te Transfer Öğrenmenin Etkisi
