@@ -16,7 +16,7 @@ Model Ölçeklendirme. (a) bir temel ağ örneğidir; (b)-(d) ağın sadece bir 
 ---
 ### EfficientNet'te Transfer Öğrenmenin Etkisi
 ---
-:octocat: [Ölçeklendirme ile CNN Modelinin Doğruluk ve Verimliliğini Artırma: EfficientNet]() blog yazısının eki olarak hazırlanmış uygulamada [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) veri kümesi üzerinde EfficientNet içi Transfer Öğrenme gerçekleştirilmiştir.
+:octocat: [Ölçeklendirme ile CNN Modelinin Doğruluk ve Verimliliğini Artırma: EfficientNet](https://medium.com/@ayyucekizrak/%C3%B6l%C3%A7eklendirme-ile-cnn-modelinin-do%C4%9Fruluk-ve-verimlili%C4%9Fini-art%C4%B1rma-efficientnet-cb6f2b6512de) blog yazısının eki olarak hazırlanmış uygulamada [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html) veri kümesi üzerinde EfficientNet içi Transfer Öğrenme gerçekleştirilmiştir.
 
 ---
 
