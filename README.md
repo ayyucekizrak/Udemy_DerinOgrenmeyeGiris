@@ -25,7 +25,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 **[Araştırmalar yaparken benzerlerine rastlayıp iyileştirerek derlemeye çalıştığım ve derin öğrenme (deep learning) konusunda kısa bir özet ve bolca kaynak yönlendirmesi olan (hatta sonunda koca bir liste var) hızlıca konuya giriş yapılabilinmesi için gereklilikleri özetlemektedir. Lütfen katkı vermekten çekinmeyin 👽](https://github.com/ayyucekizrak/Kapsamli_Derin_Ogrenme_Rehberi)**
 
-## :boom: **[Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/derin-ogrenmeye-giris/?couponCode=DLTURKIYE25)** :metal: :sunglasses:
+## :boom: **[Derin Öğrenmeye Giriş Dersi](https://www.udemy.com/course/derin-ogrenmeye-giris/?couponCode=CORONAVIRUS)** :metal: :sunglasses:
  
 ----
 
