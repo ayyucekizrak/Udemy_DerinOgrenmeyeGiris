@@ -123,6 +123,8 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 * :rainbow: [Google Colab ile Ücretsiz GPU Kullanımı](https://www.youtube.com/watch?v=bT-T1i_Rpy8&t=3s)
 
+* :dart: [Yapay Zeka Araştırma İnisiyatifi (YZ-AI)](https://yz-ai.github.io/)
+
 * :rainbow: [Adım Adım Google Colab Ücretsiz TPU Kullanımı](https://medium.com/deep-learning-turkiye/ad%C4%B1m-ad%C4%B1m-google-colab-%C3%BCcretsiz-tpu-kullan%C4%B1m%C4%B1-621dc6e5487d)
 
 ----
