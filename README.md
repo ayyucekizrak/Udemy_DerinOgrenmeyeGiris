@@ -90,17 +90,17 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
  
     ---
     
-**5. KAPSÜL AĞLARI** 
+**5. [KAPSÜL AĞLARI](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/KapsulAglari)** 
    
   * [Kapsül Ağları ile MNIST Uygulaması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/KapsulAglari)
 
-**6. ÜRETİCİ ÇEKİŞMELİ AĞLAR AĞLAR**
+**6. [ÜRETİCİ ÇEKİŞMELİ AĞLAR AĞLAR](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/Uretici_Cekismeli_Aglar_GAN)**
   
 * [Üretici Çekişmeli Ağlar (GAN) ile Sentetik Veri Üretme Uygulaması](https://github.com/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme)
   
   ---
 
-**7. PEKİŞTİRMELİ ÖĞRENME**
+**7. [PEKİŞTİRMELİ ÖĞRENME](https://yz-ai.github.io/blog/pekistirmeli-ogrenme/pekistirmeli-ogrenme-bolum-1)**
   
  * Ping-Pong Oyun Uygulaması 
   >Eklenecek
