@@ -96,7 +96,7 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
 
 **6. ÜRETİCİ ÇEKİŞMELİ AĞLAR AĞLAR**
   
-* [Üretici Çekişmeli Ağlar (GAN) ile Sentetik Veri Üretme Uygulamasu](https://github.com/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme)
+* [Üretici Çekişmeli Ağlar (GAN) ile Sentetik Veri Üretme Uygulaması](https://github.com/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme)
   
   ---
 
