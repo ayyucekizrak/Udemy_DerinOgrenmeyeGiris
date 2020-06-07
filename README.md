@@ -17,7 +17,7 @@ yöntemlerini öğrenmek için Udemy üzerinde açtığım kursu takip edebilirs
 - Özyinelemeli Sinir Ağları (RNN: Recurrent Neural Networks)
 - Uzun-Kısa Vadeli Bellek (LSTM: Long Short Term Memory)
 - Kapsül Ağları (CapsNet: Capsule Networks)
-- Çekişmeli Üretici Ağları (GAN: Generative Adversarial Networks)
+- Üretici Çekişmeli Ağları (GAN: Generative Adversarial Networks)
 - Pekiştirmeli Öğrenme (RL: Reinforcement Learning)  
 
 
@@ -96,10 +96,9 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
    
   * [Kapsül Ağları ile MNIST Uygulaması](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/KapsulAglari)
 
-**6. ÇEKİŞMELİ ÜRETİCİ AĞLAR**
+**6. ÜRETİCİ ÇEKİŞMELİ AĞLAR AĞLAR**
   
- * Stil Transferi - GAN 
-  >Eklenecek
+* [Üretici Çekişmeli Ağlar (GAN) ile Sentetik Veri Üretme Uygulamasu](https://github.com/ayyucekizrak/GAN_UreticiCekismeliAglar_ile_SentetikVeriUretme)
   
   ---
 
