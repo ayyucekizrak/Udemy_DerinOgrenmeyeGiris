@@ -89,7 +89,8 @@ Tüm bu yöntemleri Python programlama dili kullanarak TensorFlow ve Keras küt�
   * [Uzun-Kısa Vadeli Bellek (LSTM) Kullanılarak Öngörücü Bakım (Predictive Maintenance) Kestirimi](https://github.com/ayyucekizrak/Predictive_Maintenance_w_LSTM)  
   
   * [BERT (Bidirectional Encoder Representations for Transformers) ile Sentiment Analizi](https://github.com/ayyucekizrak/BERTileSentimentAnaliz)  
-    ---
+   
+   ---
     
 **5. [KAPSÜL AĞLARI](https://github.com/ayyucekizrak/Udemy_DerinOgrenmeyeGiris/tree/master/KapsulAglari)** 
    
